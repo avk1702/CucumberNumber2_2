@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14655cac-112e-4a03-b26b-27b6bc5de6c0" name="Changes" comment="">
+    <list default="true" id="14655cac-112e-4a03-b26b-27b6bc5de6c0" name="Changes" comment="Duble2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom/ProductsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom/ProductsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/steps/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/steps/ProductSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/steps/ProductSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/addFruit.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/addFruit.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/addVegetable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/addVegetable.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +36,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AN/IdeaProjects/CucumberNumber2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
 }</component>
-  <component name="RunManager" selected="Cucumber Java.Feature: addFruit">
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Feature: addFruit" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/addFruit.feature" />
@@ -119,9 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Feature: addFruit" />
         <item itemvalue="Cucumber Java.Feature: addVegetable" />
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: Add Non-Exotic Vegetable" />
       </list>
     </recent_temporary>
@@ -135,6 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724924658265</updated>
     </task>
+    <task id="LOCAL-00001" summary="Duble2">
+      <option name="closed" value="true" />
+      <created>1724949841383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724949841383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Duble2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duble2" />
   </component>
 </project>

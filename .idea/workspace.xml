@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14655cac-112e-4a03-b26b-27b6bc5de6c0" name="Changes" comment="Double5">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/steps/Hooks.java" afterDir="false" />
+    <list default="true" id="14655cac-112e-4a03-b26b-27b6bc5de6c0" name="Changes" comment="Selenoid_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725008540626</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Selenoid">
+      <option name="closed" value="true" />
+      <created>1725015511925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725015511925</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Selenoid_1">
+      <option name="closed" value="true" />
+      <created>1725018141126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725018141126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +186,8 @@
     <MESSAGE value="Double3" />
     <MESSAGE value="Double4" />
     <MESSAGE value="Double5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Double5" />
+    <MESSAGE value="Selenoid" />
+    <MESSAGE value="Selenoid_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenoid_1" />
   </component>
 </project>

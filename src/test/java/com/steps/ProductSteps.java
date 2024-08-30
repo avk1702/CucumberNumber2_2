@@ -24,7 +24,7 @@ public class ProductSteps {
         WebDriver driver = Hooks.getDriver();
         WebDriverWait wait = Hooks.getWait();
         productsPage = new ProductsPage(driver, wait);
-        driver.get("http://localhost:8080/food");
+        driver.get("http://149.154.71.152:8080/food");
         Thread.sleep(1000);
     }
 

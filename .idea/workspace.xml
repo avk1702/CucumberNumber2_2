@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14655cac-112e-4a03-b26b-27b6bc5de6c0" name="Changes" comment="Jenkins4">
+    <list default="true" id="14655cac-112e-4a03-b26b-27b6bc5de6c0" name="Changes" comment="Jenkins5">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/steps/Hooks.java" afterDir="false" />
     </list>
@@ -112,6 +113,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CucumberNumber2 [test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+                <option value="-test" />
+                <option value="-Dbrowser=firefox" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestRunner" />
@@ -218,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725021228241</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Jenkins5">
+      <option name="closed" value="true" />
+      <created>1725188019107</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725188019107</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +269,7 @@
     <MESSAGE value="Jenkins2" />
     <MESSAGE value="Jenkins3" />
     <MESSAGE value="Jenkins4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jenkins4" />
+    <MESSAGE value="Jenkins5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkins5" />
   </component>
 </project>
